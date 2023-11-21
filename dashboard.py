@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import plotly as px
 import plotly.express as px
 
 dataset=pd.read_excel('electricity.xlsx')
